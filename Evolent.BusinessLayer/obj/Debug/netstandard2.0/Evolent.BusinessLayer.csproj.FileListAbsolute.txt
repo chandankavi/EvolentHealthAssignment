@@ -1,0 +1,14 @@
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.BusinessLayer.deps.json
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.BusinessLayer.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.BusinessLayer.pdb
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.DataAccessLayer.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.Models.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.DataAccessLayer.pdb
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\bin\Debug\netstandard2.0\Evolent.Models.pdb
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.csprojAssemblyReference.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.AssemblyInfoInputs.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.AssemblyInfo.cs
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.csproj.CopyComplete
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.BusinessLayer\obj\Debug\netstandard2.0\Evolent.BusinessLayer.pdb

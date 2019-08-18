@@ -1,0 +1,12 @@
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\bin\Debug\netstandard2.0\Evolent.Models.deps.json
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\bin\Debug\netstandard2.0\Evolent.Models.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\bin\Debug\netstandard2.0\Evolent.Models.pdb
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.csprojAssemblyReference.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.csproj.CoreCompileInputs.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.AssemblyInfoInputs.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.AssemblyInfo.cs
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.csproj.CopyComplete
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.Models\obj\Debug\netstandard2.0\Evolent.Models.pdb

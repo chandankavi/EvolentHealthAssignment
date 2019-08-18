@@ -1,0 +1,12 @@
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\bin\Debug\netstandard2.0\Evolent.DataAccessLayer.deps.json
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\bin\Debug\netstandard2.0\Evolent.DataAccessLayer.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\bin\Debug\netstandard2.0\Evolent.DataAccessLayer.pdb
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\bin\Debug\netstandard2.0\Evolent.Models.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\bin\Debug\netstandard2.0\Evolent.Models.pdb
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.csprojAssemblyReference.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.AssemblyInfo.cs
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.csproj.CopyComplete
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.dll
+C:\Chandan\Assignment\EvolentHealth\Evolent.DataAccessLayer\obj\Debug\netstandard2.0\Evolent.DataAccessLayer.pdb

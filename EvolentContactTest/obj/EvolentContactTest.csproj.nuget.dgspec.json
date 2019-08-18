@@ -1,0 +1,357 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContactTest\\EvolentContactTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.BusinessLayer\\Evolent.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.BusinessLayer\\Evolent.BusinessLayer.csproj",
+        "projectName": "Evolent.BusinessLayer",
+        "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.BusinessLayer\\Evolent.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\chandan\\.nuget\\packages\\",
+        "outputPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.DataAccessLayer\\Evolent.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.DataAccessLayer\\Evolent.DataAccessLayer.csproj"
+              },
+              "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj": {
+                "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.DataAccessLayer\\Evolent.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.DataAccessLayer\\Evolent.DataAccessLayer.csproj",
+        "projectName": "Evolent.DataAccessLayer",
+        "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.DataAccessLayer\\Evolent.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\chandan\\.nuget\\packages\\",
+        "outputPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj": {
+                "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj",
+        "projectName": "Evolent.Models",
+        "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj",
+        "packagesPath": "C:\\Users\\chandan\\.nuget\\packages\\",
+        "outputPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContactTest\\EvolentContactTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContactTest\\EvolentContactTest.csproj",
+        "projectName": "EvolentContactTest",
+        "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContactTest\\EvolentContactTest.csproj",
+        "packagesPath": "C:\\Users\\chandan\\.nuget\\packages\\",
+        "outputPath": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContactTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContact\\EvolentContact.csproj": {
+                "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContact\\EvolentContact.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.DotNet.Cli.Utils": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "ServiceStack.Text": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContact\\EvolentContact.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContact\\EvolentContact.csproj",
+        "projectName": "EvolentContact",
+        "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContact\\EvolentContact.csproj",
+        "packagesPath": "C:\\Users\\chandan\\.nuget\\packages\\",
+        "outputPath": "C:\\Chandan\\Assignment\\EvolentHealth\\EvolentContact\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.BusinessLayer\\Evolent.BusinessLayer.csproj": {
+                "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.BusinessLayer\\Evolent.BusinessLayer.csproj"
+              },
+              "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj": {
+                "projectPath": "C:\\Chandan\\Assignment\\EvolentHealth\\Evolent.Models\\Evolent.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

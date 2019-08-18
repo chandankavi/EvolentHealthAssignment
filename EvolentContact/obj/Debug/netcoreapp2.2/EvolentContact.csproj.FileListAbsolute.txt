@@ -1,0 +1,17 @@
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\EvolentContact.deps.json
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\EvolentContact.runtimeconfig.json
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\EvolentContact.runtimeconfig.dev.json
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\EvolentContact.dll
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\EvolentContact.pdb
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\Evolent.Models.dll
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\bin\Debug\netcoreapp2.2\Evolent.Models.pdb
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.csprojAssemblyReference.cache
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.csproj.CoreCompileInputs.cache
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.RazorAssemblyInfo.cache
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.RazorAssemblyInfo.cs
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.AssemblyInfoInputs.cache
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.AssemblyInfo.cs
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.RazorTargetAssemblyInfo.cache
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.csproj.CopyComplete
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.dll
+C:\Chandan\Assignment\EvolentHealth\EvolentContact\obj\Debug\netcoreapp2.2\EvolentContact.pdb
